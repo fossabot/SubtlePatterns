@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSubtlePatterns.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSubtlePatterns?ref=badge_shield)
+
 SubtlePatterns
 ===============
 
@@ -20,3 +22,7 @@ Subtle Patterns and www.subtlepatterns.com © 2013 Atle Mo.
 ===============
 
 ENJOY!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FSubtlePatterns.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FSubtlePatterns?ref=badge_large)
